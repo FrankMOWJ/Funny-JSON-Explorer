@@ -1,0 +1,1 @@
+python main.py -f ./test_case.json -c ./config/config.json
